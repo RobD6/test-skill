@@ -1,0 +1,23 @@
+{
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Display",
+                "fields": [
+                    {
+                        "name": "email",
+                        "type": "email",
+                        "label": "Email address for your Keep account",
+                        "value": ""
+                    },
+                    {
+                        "name": "password",
+                        "type": "password",
+                        "label": "Enter your password",
+                        "value": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
